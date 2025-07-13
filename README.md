@@ -1,1 +1,0 @@
-# pertevniyalmatematik.github.io
