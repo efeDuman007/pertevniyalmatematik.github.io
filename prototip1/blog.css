@@ -1,0 +1,18 @@
+.blog-icerik-karti {
+  max-width: 900px;
+  margin: 60px auto;
+  background-color: #fdfdfd;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  line-height: 1.7;
+}
+
+.blog-icerik-karti h1 {
+  color: #333;
+}
+
+.blog-icerik-karti p {
+  color: #444;
+}
